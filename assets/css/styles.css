@@ -4,8 +4,8 @@
 :root {
   --header-height: 3rem;
   /*========== Colors ==========*/
-  --hue: 210;
-  --sat: 100%;
+  --hue: 115;
+  --sat: 60%;
   --first-color: hsl(var(--hue), var(--sat), 60%);
   --first-color-light: hsl(var(--hue), var(--sat), 85%);
   --first-color-lighten: hsl(var(--hue), var(--sat), 80%);
@@ -62,7 +62,7 @@ html {
 }
 
 .imgLogo{
-  width: 10%;
+  width: 11%;
 }
 
 body {
@@ -592,7 +592,7 @@ body.dark-theme {
     margin-right: auto;
   }
   .home__img {
-    width: 540px;
+    width: 440px;
   }
   .home__description {
     padding-right: 5rem;
